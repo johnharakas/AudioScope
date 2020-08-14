@@ -3,8 +3,8 @@ Plot audio signals and frequencies in real time using python and matplotlib. Thi
 
 ## Sine Wave - 500Hz
 
-<img src="images/500Hz.png" width="500">
+<img src="images/500Hz.png" width="600">
 
 ## Noise - 500Hz
 
-<img src="images/noise500Hz.png" width="500">
+<img src="images/noise500hz.png" width="600">
